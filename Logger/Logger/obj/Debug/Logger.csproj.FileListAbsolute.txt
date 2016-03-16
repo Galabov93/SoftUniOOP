@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\Solution5\Logger\bin\Debug\Logger.exe.config
+d:\documents\visual studio 2015\Projects\Solution5\Logger\bin\Debug\Logger.exe
+d:\documents\visual studio 2015\Projects\Solution5\Logger\bin\Debug\Logger.pdb
+d:\documents\visual studio 2015\Projects\Solution5\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Solution5\Logger\obj\Debug\Logger.exe
+d:\documents\visual studio 2015\Projects\Solution5\Logger\obj\Debug\Logger.pdb
+C:\Users\galab\Desktop\Projects\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\galab\Desktop\Projects\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\galab\Desktop\Projects\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\galab\Desktop\Projects\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\galab\Desktop\Projects\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\galab\Desktop\Projects\Logger\Logger\bin\Debug\Logger.pdb
