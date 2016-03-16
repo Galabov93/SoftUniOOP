@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\bin\Debug\FirstProblemPoint3D.exe.config
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\bin\Debug\FirstProblemPoint3D.exe
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\bin\Debug\FirstProblemPoint3D.pdb
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\obj\Debug\FirstProblemPoint3D.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\obj\Debug\FirstProblemPoint3D.exe
+d:\documents\visual studio 2015\Projects\StaticMembersHomework\FirstProblemPoint3D\obj\Debug\FirstProblemPoint3D.pdb
