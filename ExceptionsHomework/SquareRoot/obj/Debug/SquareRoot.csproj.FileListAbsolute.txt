@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\bin\Debug\SquareRoot.exe.config
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\bin\Debug\SquareRoot.exe
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\bin\Debug\SquareRoot.pdb
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\obj\Debug\SquareRoot.exe
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\SquareRoot\obj\Debug\SquareRoot.pdb

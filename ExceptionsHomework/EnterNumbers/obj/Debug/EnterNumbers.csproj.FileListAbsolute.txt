@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\bin\Debug\EnterNumbers.exe
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\bin\Debug\EnterNumbers.pdb
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\obj\Debug\EnterNumbers.exe
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\obj\Debug\EnterNumbers.pdb
+d:\documents\visual studio 2015\Projects\ExceptionsHomework\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
