@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+d:\documents\visual studio 2015\Projects\InheritanceHomework\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
