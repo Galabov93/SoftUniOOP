@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\bin\Debug\EncapsulationLecture.exe.config
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\bin\Debug\EncapsulationLecture.exe.config
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\bin\Debug\EncapsulationLecture.exe
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\bin\Debug\EncapsulationLecture.pdb
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\obj\Debug\EncapsulationLecture.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\obj\Debug\EncapsulationLecture.exe
+D:\Documents\Visual Studio 2015\Projects\EncapsulationAndPolymorphism\EncapsulationLecture\obj\Debug\EncapsulationLecture.pdb
