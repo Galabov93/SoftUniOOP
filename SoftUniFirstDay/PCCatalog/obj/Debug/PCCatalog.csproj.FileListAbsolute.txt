@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\SoftUniFirstDay\PCCatalog\bin\Debug\PCCatalog.exe.config
+d:\documents\visual studio 2015\Projects\SoftUniFirstDay\PCCatalog\bin\Debug\PCCatalog.exe
+d:\documents\visual studio 2015\Projects\SoftUniFirstDay\PCCatalog\bin\Debug\PCCatalog.pdb
+d:\documents\visual studio 2015\Projects\SoftUniFirstDay\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\SoftUniFirstDay\PCCatalog\obj\Debug\PCCatalog.exe
+d:\documents\visual studio 2015\Projects\SoftUniFirstDay\PCCatalog\obj\Debug\PCCatalog.pdb
